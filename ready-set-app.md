@@ -1,10 +1,10 @@
 ## Inspiration
 
-As high school students, we have experienced the problem of food insecurity firsthand during the COVID-19 pandemic. Many of our schoolmates who depend on subsidized or free meals in the school cafeteria no longer have access to meals provided at schools with school closures. As we started to research food insecurity, we learned about the scope of the food waste issue at the national level. While many people are going hungry, we are also throwing away a lot of food that people in need could have consumed. Wasted food is a problem because it impacts the economy, our society, and the environment. Reducing food losses by only 15 percent would be enough food to feed more than 25 million Americans each year. Wasted food is a massive tax on the environment and contributes to greenhouse gases. The solution to this problem is reducing the amount of wasted food, depicted as source reduction at the top of the [EPA Food Recovery Hierarchy](https://www.epa.gov/sustainable-management-food/food-recovery-hierarchy)
+As high school students, we have experienced the problem of food insecurity firsthand during the COVID-19 pandemic. Many of our schoolmates who depend on subsidized or free meals in the school cafeteria no longer have access to meals provided at schools with school closures. As we started to research food insecurity, we learned about the scope of the food waste issue at the national level. While many people are going hungry, we are also throwing away a lot of food that people in need could have consumed. Wasted food is a problem because it impacts the economy, our society, and the environment. **Reducing food losses by only 15 percent would be enough food to feed more than 25 million Americans each year.** Wasted food is a massive tax on the environment and contributes to greenhouse gases. The solution to this problem is reducing the amount of wasted food, depicted as source reduction at the top of the [EPA Food Recovery Hierarchy](https://www.epa.gov/sustainable-management-food/food-recovery-hierarchy).
 
 ## What it does
 
-After having conversations with the Food Bank of Central and Eastern North Carolina and food pantries pantries in our area, we built PANTRY PATROL, an application that helps food pantries track, monitor, and identify sources of food waste. We wanted to ensure that we created an application that meets food pantries’ needs, is affordable, and is simple and easy to use. For a more in-depth description of our journey, please refer to "Our_Journey.pdf" attached in the zip folder submission.
+After having conversations with the Food Bank of Central and Eastern North Carolina and food pantries pantries in our area, we built PANTRY PATROL, an application that **helps food pantries track, monitor, and identify sources of food waste**. We wanted to ensure that we created an application that meets food pantries’ needs, is affordable, and is simple and easy to use. For a more in-depth description of our journey, please refer to **Our_Journey.pdf** attached in the zip folder submission.
 
 ## How we built it
 
@@ -14,7 +14,7 @@ We built our application PANTRY PATROL using [AppSheets](https://www.appsheet.co
 - t provides a convenient way to model data using simple schemas from Google Sheets as a backing store without setting up databases.
 - It provides a way to build production-grade applications. Our team already has experience building applications using the platform.
 - It provides powerful widgets for taking pictures, collecting signatures, creating maps based on geographic data, etc., in a relatively intuitive and straightforward manner.
-- It provides a cheap way for hosting and running applications for non-profit organizations. 
+- It provides a cost effective way of hosting and running applications for non-profit organizations.
 
 For a complete description of the *use cases*, the *entity model* and *user interface design with screenshots*, please refer to the document titled **Application_design.pdf** inside the zip file attachment.
 
@@ -30,7 +30,7 @@ We did learn a number of things about how to build portable mobile applications 
 
 ## Accomplishments we are proud of
 
-We believe that our application will be tremendously useful to small and medium-sized food pantries to streamline their operations and stretch their resources to better help communities by avoiding food wastage. We would like to present our stakeholder feedback as evidence to demonstrate the benefits to the community. The complete letters are available in the *Testimonials* folder inside the zip file submission.
+We believe that our application will be tremendously useful to small and medium-sized food pantries to streamline their operations and stretch their resources to better help communities by avoiding food wastage. We would like to present our stakeholder feedback as evidence to demonstrate the benefits to the community. The complete letters are available in the **Testimonials** folder inside the zip file submission.
 
  *“As First Lady, I meet and work with food banks across North Carolina, and I believe the app Pantry Patrol will help bridge a communication gap and transition food tracking to the digital era. The app itself is skillfully designed to be user-friendly while containing beneficial information and statistics. Food insecurity and food wastage are significant problems in our community, and this app will help food pantries identify and eliminate sources of wastage.”*
     **- Ms. Kristin Cooper, First Lady of the State of North Carolina**
@@ -69,13 +69,13 @@ Here are some things we learned along our journey.
 7. Assessing the dollar value of food donations and wastage.
 8. Technology can help solve the hunger problem.
 
-For more in-depth discussion, please refer to "Our_journey.pdf" in the zip file submission
+For more in-depth discussion, please refer to **Our_journey.pdf** in the zip file submission
 
 ## What's next for Pantry Patrol
 
 When we first started this project, our goal was to identify and work on a community problem. Throughout our journey, we were able to conduct research, talk to experts, and go on various field trips to learn more about the issues of food waste and food insecurity in our community. These experiences have shaped how we look at the food waste and food insecurity problems in America, and we are very passionate about helping to make a difference. We are passionate about making a difference in our community, and we plan to continue our project after the completion of the competition. We are currently piloting our app with two food pantries in NC:
 
 - [A Touch of Father’s Love Ministry and Food Pantry](https://atouchofthefatherslove.org/) 
-- [Zion Christian Community Center](https://www.zionchristiancenter.net/). 
+- [Zion Christian Community Center](https://www.zionchristiancenter.net/) 
 
 In the future, we plan on gathering and analyzing important food waste data to share with food banks. We plan on obtaining their feedback for further growth and improvement of PANTRY PATROL. We also plan on partnering with more food banks and pantries in our area to improve their management systems with an underlying goal of reducing food wastage. By reaching out to more pantries in our vicinity, we will be able to help food pantries in maximizing their outreach. We have several other plans to expand this project and look into developing a suite of apps oriented towards tracking food wastage beyond food banks and pantries.
