@@ -58,18 +58,7 @@ We believe that our application will be tremendously useful to small and medium-
 
 ## What we learned
 
-Here are some things we learned along our journey. 
-
-1. Food Banks and Food Pantries are the frontline organizations in the fight to solve hunger and food insecurity.
-2. Not all food waste is equal.
-3. Food Pantries can’t afford IT systems despite having needs for one.
-4. Food Banks do not have visibility to food wastage at partner food pantries.
-5. Food pantries can improve service with small changes.
-6. Food Date Labeling issues.
-7. Assessing the dollar value of food donations and wastage.
-8. Technology can help solve the hunger problem.
-
-For more in-depth discussion, please refer to **Our_journey.pdf** in the zip file submission
+During our journey, we learned quite a bit about food pantries and their technological insights which influenced how we developed our application. For instance, we learned that food pantries cannot afford IT systems, despite having a need for one. Food pantries process large amounts of information and some form of technological solution would be extremely useful to them, however they cannot afford them. This made us realize that the solution we develop must be cost effective. Furthermore, we learned that food pantries are not very technologically savvy, and learning how to use an application would be difficult and time consuming if the user interface was not well designed. This made us come to the conclusion that our app must  have an **easy to use and user-friendly interface**. For more in-depth discussion, please refer to **Our_journey.pdf** in the zip file submission. 
 
 ## What's next for Pantry Patrol
 
